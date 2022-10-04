@@ -1,0 +1,17 @@
+{
+  "type":"crafting_shaped",
+  "pattern": [
+    " ||",
+    " _|",
+    "_  "
+  ],
+  "key": {
+    "|": { "item":"minecraft:iron_ingot" },
+    "_": { "item":"minecraft:copper_ingot" }
+  },
+  "result": {
+    "item": "minecraft:trident",
+	"count": 1
+  },
+  "group": "McSorley McCrafting"
+}
