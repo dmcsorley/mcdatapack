@@ -1,0 +1,17 @@
+{
+  "type":"crafting_shaped",
+  "pattern": [
+    "   ",
+    "|_ ",
+    "_| "
+  ],
+  "key": {
+    "|": { "item":"minecraft:bone_block" },
+    "_": { "item":"minecraft:dirt" }
+  },
+  "result": {
+    "item": "minecraft:soul_soil",
+	"count": 4
+  },
+  "group": "McSorley McCrafting"
+}
