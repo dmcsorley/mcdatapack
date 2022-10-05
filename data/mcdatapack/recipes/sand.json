@@ -1,0 +1,17 @@
+{
+  "type":"crafting_shaped",
+  "pattern": [
+    "   ",
+    "|_ ",
+    "_| "
+  ],
+  "key": {
+    "|": { "item":"minecraft:sand" },
+    "_": { "item":"minecraft:gravel" }
+  },
+  "result": {
+    "item": "minecraft:sand",
+	"count": 4
+  },
+  "group": "McSorley McCrafting"
+}
