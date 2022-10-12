@@ -1,0 +1,17 @@
+{
+  "type":"crafting_shaped",
+  "pattern": [
+    "   ",
+    "|_ ",
+    "_| "
+  ],
+  "key": {
+    "|": { "item":"minecraft:blackstone" },
+    "_": { "item":"minecraft:cobblestone" }
+  },
+  "result": {
+    "item": "minecraft:blackstone",
+	"count": 4
+  },
+  "group": "McSorley McCrafting"
+}
