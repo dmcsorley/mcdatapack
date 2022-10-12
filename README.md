@@ -3,13 +3,15 @@
 Conveniences for survival.
 
 - Trident recipe, because drowned farming is boring
-- Gravel, Sand, Soul Sand, and Soul Soil recipes, because I don't like devestating landscapes for materials.
-  - Gravel can be crafted from gravel and cobblestone
-  - Sand can be crafted from sand and gravel
-  - Soul Sand can be crafted from sand and bone blocks
-  - Soul Soil can be crafted from dirt and bone blocks
+- Block generators for items that are non-renewable or renewable only by trading; I don't like devestating landscapes for materials, and trading isn't that fun.
+  - Gravel, from gravel and cobblestone
+  - Sand, from sand and gravel
+  - Blackstone, from basalt and cobblestone
+  - Cobbled deepslate, from coal blocks and cobbled deepslate
+  - Soul Sand, from sand and bone blocks
+  - Soul Soil, from dirt and bone blocks
 
-Given skeletons (or wither skeletons) for bones, a cobblestone generator, and some seed gravel, sand, and dirt, you can generate enough of any of these materials for terraforming.
+Given wither skeletons for bones and coal, a cobblestone/basalt generator, and some seed gravel, sand, and dirt, you can renewably generate these materials for building or terraforming.
 
 ## Building
 
