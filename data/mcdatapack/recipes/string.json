@@ -1,0 +1,16 @@
+{
+  "type":"crafting_shaped",
+  "pattern": [
+    "   ",
+    "|||",
+    "   "
+  ],
+  "key": {
+    "|": { "item":"minecraft:bamboo" }
+  },
+  "result": {
+    "item": "minecraft:string",
+	"count": 3
+  },
+  "group": "McSorley McCrafting"
+}
