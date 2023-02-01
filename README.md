@@ -13,6 +13,13 @@ Conveniences for survival.
 
 Given wither skeletons for bones and coal, a cobblestone/basalt generator, and some seed gravel, sand, and dirt, you can renewably generate these materials for building or terraforming.
 
+I added a recipe for string from bamboo because it seemed useful.
+
+Added recycling of mob drops:
+
+- String from bows
+- Leather from leather boots, leggings, chestplates, and helmets
+
 ## Building
 
 ```sh
