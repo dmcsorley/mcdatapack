@@ -18,7 +18,7 @@ I added a recipe for string from bamboo because it seemed useful.
 Added recycling of mob drops:
 
 - String from bows
-- Leather from leather boots, leggings, chestplates, and helmets
+- Leather from saddles, leather boots, leggings, chestplates, and helmets
 
 ## Building
 
