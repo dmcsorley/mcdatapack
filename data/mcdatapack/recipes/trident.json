@@ -1,5 +1,5 @@
 {
-  "type":"crafting_shaped",
+  "type":"minecraft:crafting_shaped",
   "pattern": [
     " ||",
     " _|",
@@ -10,8 +10,7 @@
     "_": { "item":"minecraft:copper_ingot" }
   },
   "result": {
-    "item": "minecraft:trident",
-	"count": 1
+    "id": "minecraft:trident"
   },
   "group": "McSorley McCrafting"
 }

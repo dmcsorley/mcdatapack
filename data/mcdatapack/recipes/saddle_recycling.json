@@ -1,16 +1,10 @@
 {
-  "type":"crafting_shaped",
-  "pattern": [
-    "   ",
-    " s ",
-    "   "
-  ],
+  "type":"minecraft:crafting_shapeless",
   "key": {
     "s": { "item":"minecraft:saddle" }
   },
   "result": {
-    "item": "minecraft:leather",
-	"count": 1
+    "id": "minecraft:leather"
   },
   "group": "McSorley McCrafting"
 }

@@ -1,16 +1,10 @@
 {
-  "type":"crafting_shaped",
-  "pattern": [
-    "   ",
-    " D ",
-    "   "
+  "type":"minecraft:crafting_shapeless",
+  "ingredients": [
+    { "item":"minecraft:bow" }
   ],
-  "key": {
-    "D": { "item":"minecraft:bow" }
-  },
   "result": {
-    "item": "minecraft:string",
-	"count": 1
+    "id": "minecraft:string"
   },
   "group": "McSorley McCrafting"
 }

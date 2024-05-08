@@ -1,5 +1,5 @@
 {
-  "type":"crafting_shaped",
+  "type":"minecraft:crafting_shaped",
   "pattern": [
     "   ",
     "|_ ",
@@ -10,7 +10,7 @@
     "_": { "item":"minecraft:dirt" }
   },
   "result": {
-    "item": "minecraft:soul_soil",
+    "id": "minecraft:soul_soil",
 	"count": 4
   },
   "group": "McSorley McCrafting"

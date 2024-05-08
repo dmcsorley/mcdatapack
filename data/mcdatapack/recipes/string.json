@@ -1,5 +1,5 @@
 {
-  "type":"crafting_shaped",
+  "type":"minecraft:crafting_shaped",
   "pattern": [
     "   ",
     "|||",
@@ -9,7 +9,7 @@
     "|": { "item":"minecraft:bamboo" }
   },
   "result": {
-    "item": "minecraft:string",
+    "id": "minecraft:string",
 	"count": 3
   },
   "group": "McSorley McCrafting"

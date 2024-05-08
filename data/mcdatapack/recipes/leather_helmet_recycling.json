@@ -1,16 +1,10 @@
 {
-  "type":"crafting_shaped",
-  "pattern": [
-    "   ",
-    " h ",
-    "   "
+  "type":"minecraft:crafting_shapeless",
+  "ingredients": [
+    { "item":"minecraft:leather_helmet" }
   ],
-  "key": {
-    "h": { "item":"minecraft:leather_helmet" }
-  },
   "result": {
-    "item": "minecraft:leather",
-	"count": 1
+    "id": "minecraft:leather"
   },
   "group": "McSorley McCrafting"
 }
