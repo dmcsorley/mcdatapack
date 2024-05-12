@@ -1,8 +1,8 @@
 {
   "type":"minecraft:crafting_shapeless",
-  "key": {
-    "s": { "item":"minecraft:saddle" }
-  },
+  "ingredients": [
+    { "item":"minecraft:saddle" }
+  ],
   "result": {
     "id": "minecraft:leather"
   },
