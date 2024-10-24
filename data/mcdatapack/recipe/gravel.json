@@ -6,8 +6,8 @@
     "_| "
   ],
   "key": {
-    "|": { "item":"minecraft:gravel" },
-    "_": { "item":"minecraft:cobblestone" }
+    "|": "item":"minecraft:gravel",
+    "_": "item":"minecraft:cobblestone"
   },
   "result": {
     "id": "minecraft:gravel",

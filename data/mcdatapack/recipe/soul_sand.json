@@ -6,8 +6,8 @@
     "_| "
   ],
   "key": {
-    "|": { "item":"minecraft:bone_block" },
-    "_": { "item":"minecraft:sand" }
+    "|": "minecraft:bone_block",
+    "_": "minecraft:sand"
   },
   "result": {
     "id": "minecraft:soul_sand",

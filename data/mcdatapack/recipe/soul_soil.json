@@ -6,8 +6,8 @@
     "_| "
   ],
   "key": {
-    "|": { "item":"minecraft:bone_block" },
-    "_": { "item":"minecraft:dirt" }
+    "|": "minecraft:bone_block",
+    "_": "minecraft:dirt"
   },
   "result": {
     "id": "minecraft:soul_soil",

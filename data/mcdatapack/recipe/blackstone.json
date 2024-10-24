@@ -6,8 +6,8 @@
     "_| "
   ],
   "key": {
-    "|": { "item":"minecraft:basalt" },
-    "_": { "item":"minecraft:cobblestone" }
+    "|": "minecraft:basalt",
+    "_": "minecraft:cobblestone"
   },
   "result": {
     "id": "minecraft:blackstone",

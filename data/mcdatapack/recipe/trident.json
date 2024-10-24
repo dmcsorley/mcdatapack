@@ -6,8 +6,8 @@
     "_  "
   ],
   "key": {
-    "|": { "item":"minecraft:iron_ingot" },
-    "_": { "item":"minecraft:copper_ingot" }
+    "|": "minecraft:iron_ingot",
+    "_": "minecraft:copper_ingot"
   },
   "result": {
     "id": "minecraft:trident"

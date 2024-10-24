@@ -6,8 +6,8 @@
     "_| "
   ],
   "key": {
-    "|": { "item":"minecraft:coal_block" },
-    "_": { "item":"minecraft:cobblestone" }
+    "|": "minecraft:coal_block",
+    "_": "minecraft:cobblestone"
   },
   "result": {
     "id": "minecraft:cobbled_deepslate",
